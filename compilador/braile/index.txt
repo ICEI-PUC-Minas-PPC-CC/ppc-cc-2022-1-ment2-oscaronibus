@@ -1,0 +1,23 @@
+#TITULO O que vou aprender?
+#TEXTO O curso irá apresentá-lo ao braile da séria 1. Ao final do curso, você será capaz de:
+
+#TEXTO — Entender quando e onde o braile será útil para você
+#TEXTO — Ler histórias curtas em braile
+#TEXTO — Usar braile para rotular em casa
+
+#TITULO Como funciona?
+#TEXTO O curso terá lugar na Rua... e será ministrado por um tutor especializado em braile com muitos anos de experiência no ensino de adultos que estão a perder a visão.
+
+#TEXTO Cada sessão terá a duração de uma hora, com cerca de meia hora de ensino e a outra meia hora dividida entre perguntas e discussões sobre as diversas aplicações do braile.
+ 
+#TITULO Quem pode se inscrever?
+#TEXTO O principal público deste curso são os adultos. Embora não impeçamos a participação de crianças, pedimos que sejam supervisionadas por um adulto responsável em todos os momentos. Observe também que o ritmo do curso pode ser proibitivo para crianças pequenas e o conteúdo, embora não seja inerentemente inadequado, pode incluir vocabulário ou conceitos complexos que as crianças podem ter dificuldade em entender.
+
+#TITULO Como posso me inscrever?
+#TEXTO Se inscrever neste link.
+
+#TEXTO Vídeo de Orientação
+#VIDEO TODO
+
+#TEXTO Áudio-descrição do vídeo de orientação
+#AUDIO TODO
