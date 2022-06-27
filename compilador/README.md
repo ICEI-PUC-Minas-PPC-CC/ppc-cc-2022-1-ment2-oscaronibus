@@ -34,3 +34,37 @@ Eles são usados após a palavra-chave, dando um espaço entre a palavra-chave e
 #AUDIO caminho-para-o-arquivo.mp4
 #VIDEO link-para-o-video outro-link-para-o-video.mp4
 ```
+
+## Palavra-chave disponíveis e seus argumentos
+
+### Título
+#TITULO `<conteúdo do título>`
+```
+#TITULO Conteúdo do título
+```
+
+### Texto
+#TEXTO `<conteúdo do texto>`
+```
+#TEXTO Conteúdo do texto
+```
+
+### Página
+#PAGINA `<link>` `<texto exibido>`
+```
+#PAGINA caminho/próxima/página.html Ir para próxima página
+```
+
+### Vídeo
+#VIDEO `<caminho do arquivo>`
+#VIDEO `<HTML de vídeo incorporado>`
+```
+#VIDEO caminho/para/o/video.mp4
+#VIDEO <iframe ...></iframe>
+```
+
+### Áudio
+#AUDIO `<caminho do arquivo>`
+```
+#AUDIO caminho/para/o/audio.mp3
+```
