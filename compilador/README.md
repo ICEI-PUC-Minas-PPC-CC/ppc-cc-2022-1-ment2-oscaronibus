@@ -11,6 +11,8 @@ Regras que definem como são as palavras-chave usadas para criarem páginas html
 - Exceção para caracteres especiais:
     - Símbolo "-"
 
+Obs.: Letras maiúsculas e minúsculas não são diferenciadas, mas por convenção, usa-se letras maiúsculas para palavras-chave
+
 ### Exemplos de palavra-chave
 ```
 #PAGINA
