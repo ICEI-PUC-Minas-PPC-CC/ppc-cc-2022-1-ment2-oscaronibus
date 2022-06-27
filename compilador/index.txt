@@ -7,3 +7,4 @@
 #PAGINA emprego\index.html Emprego
 #PAGINA eventos\index.html Eventos
 #PAGINA noticias\index.html Notícias
+#PAGINA braile\index.html Braile
