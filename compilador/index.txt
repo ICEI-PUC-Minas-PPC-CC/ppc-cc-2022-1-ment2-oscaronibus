@@ -1,8 +1,9 @@
-#TITULO AADV #Postagens
-#TEXTO  #Boas vindas...
-#TITULO #Categorias de postagens
-#PAGINA #atividades\index.html 	   #Atividades 
-#PAGINA #noticias\index.html 	   #Noticias
-#PAGINA #eventos\index.html 	   #Eventos
-#PAGINA #emprego\index.html 	   #Emprego
-#PAGINA #atividadegeral\index.html #Atividade Geral
+#TITULO AADV
+#TEXTO Boas vindas...
+
+#TITULO Categorias de postagens
+#PAGINA atividades\index.html Atividades
+#PAGINA atividadesgeral\index.html Atividade Geral
+#PAGINA emprego\index.html Emprego
+#PAGINA eventos\index.html Eventos
+#PAGINA noticias\index.html Notícias
